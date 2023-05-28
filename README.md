@@ -1,4 +1,4 @@
-Image Classification and Comparison of Dog Images
+# Image Classifier
 
 This repository contains an image classification project implemented using popular deep learning models such as VGG, AlexNet, and ResNet. The project aims to classify images into different predefined categories based on their content.
 
