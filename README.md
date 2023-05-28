@@ -1,4 +1,3 @@
-# AWS_AI-ML_Scholarship_Udacity
 Image Classification and Comparison of Dog Images using three CNN models - AlexNet, ResNet, VGG 
 
 ## Problem Statement:
