@@ -87,6 +87,6 @@ Each model comes with its own set of strengths and weaknesses, and the choice of
 
 The Image Classifier project uses a dataset of labeled images for training and evaluation.
 
-### Conclusion: 
+## Conclusion
 
 By my observation of dog image classification, VGG works the best compared to the other two models.
