@@ -1,6 +1,6 @@
 # Image Classifier
 
-This repository contains an image classification project implemented using popular deep learning models such as VGG, AlexNet, and ResNet. The project aims to classify images into different predefined categories based on their content.
+This repository contains an image classification project implemented using popular deep learning models such as VGG, AlexNet, and ResNet. The project aims to classify images into different predefined categories based on their content. This is done as part of AWS AI-ML Scholarship program.
 
 ## Problem Statement:
 
